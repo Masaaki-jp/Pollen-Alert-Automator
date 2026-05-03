@@ -28,6 +28,7 @@ const LAT = 35.5824;  // Latitude of the target location
 const LNG = 139.6627; // Longitude of the target location
 const CALENDAR_ID = 'your_email@gmail.com'; 
 const PERSONAL_THRESHOLD = 1; // Set according to your sensitivity (0~5)
+```
 3. Tuning the Threshold (PERSONAL_THRESHOLD)
 Set the value according to the severity of your hay fever/pollen allergy:
 
@@ -42,7 +43,7 @@ Set the value according to the severity of your hay fever/pollen allergy:
 4: High
 
 5: Very High (Recommended for those who only want to be warned on severe days)
-```
+
 4. Setting the Trigger
 From the left menu in the GAS editor, click the "Clock" icon (Triggers) and configure as follows:
 
