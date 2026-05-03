@@ -1,6 +1,6 @@
 # 😷 Pollen Alert Automator (GAS × Google Pollen API)
 
-[!(overview.png)]
+![](overview.png)
 
 Google Apps Script (GAS) と Google Pollen API を活用し、毎日の花粉飛散量を自動チェックするスクリプトです。
 飛散量が**「あなた自身の身体の感度（設定した閾値）」**を超えた日だけ、Googleカレンダーに自動で警告アラートを登録します。
